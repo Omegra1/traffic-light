@@ -1,0 +1,56 @@
+body{
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.container{
+    background-color: black;
+    padding: 30px;
+    border-radius: 30px;
+
+}
+
+.sig{
+width: 80px;
+height: 90px;
+background-color:rgb(65,65,65);
+border-radius: 180px;
+margin: 8px;
+
+}
+.red:hover{
+    background-color: red;
+
+}
+
+.yellow:hover{
+    background-color: yellow;
+
+}
+
+.green:hover{
+    background-color: green;
+}
+
+
+.stand{
+    border: 20px solid black;
+    height: 200px;
+    width: 1px;
+    background-color: black;
+    padding-top: 50px;
+
+}
+.light{
+    border: 20px dashed red;
+    width: 200px;
+    text-align: center;
+    border-radius: 250px;
+    color: white;
+    background-color: black;
+    border: none;
+    font-family:sans-serif;
+    
+}
